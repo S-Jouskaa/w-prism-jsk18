@@ -53,6 +53,7 @@
           <p><strong>Email:</strong> schlokanovsky@gmail.com</p>
           <p><strong>GitHub:</strong> github.com/S-Jouskaa</p>
           <p><strong>LinkedIn:</strong> linkedin.com/in/adhilokaaa</p>
+          <p><strong>Twitter:</strong> x.com/victionist</p>
         </div>
         <hr class="app-contact-divider" />
         <form class="app-contact-form" novalidate>

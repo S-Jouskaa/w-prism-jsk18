@@ -27,10 +27,16 @@
   const APP_ID = "gallery";
 
   const GALLERY_ITEMS = [
-    { id: "g1", assetKey: "image.gallery_1", caption: "Gallery Image 1", category: "3D Models" },
+    { id: "g1", assetKey: "image.gallery_1", caption: "The Shunter MC Concept", category: "3D Models" },
     { id: "g2", assetKey: "image.gallery_2", caption: "Gallery Image 2", category: "Pixel Art" },
-    { id: "g3", assetKey: "image.gallery_3", caption: "Gallery Image 3", category: "Game Projects" },
-    { id: "g4", assetKey: "image.gallery_4", caption: "Gallery Image 4", category: "3D Models" }
+    { id: "g3", assetKey: "image.gallery_3", caption: "Warm Soup Gameplay", category: "Game Projects" },
+    { id: "g4", assetKey: "image.gallery_4", caption: "Seismic Devices MC Concept", category: "3D Models" },
+    { id: "g5", assetKey: "image.gallery_5", caption: "Warm Soup Visual", category: "Game Projects" },
+    { id: "g6", assetKey: "image.gallery_6", caption: "New Vex Variants MC Concept", category: "3D Models" },
+    { id: "g7", assetKey: "image.gallery_7", caption: "The Mournbell MC Concept", category: "3D Models" },
+    { id: "g8", assetKey: "image.gallery_8", caption: "Gallery Image 8", category: "3D Models" },
+    { id: "g9", assetKey: "image.gallery_9", caption: "Gallery Image 9", category: "Pixel Art" },
+    { id: "g10", assetKey: "image.gallery_10", caption: "The Spume MC BTA Concept", category: "3D Models" },
   ];
 
   const CATEGORIES = ["All", "3D Models", "Pixel Art", "Game Projects"];

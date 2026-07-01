@@ -37,15 +37,21 @@
     "image.gallery_1": "assets/images/gallery_1.jpg",
     "image.gallery_2": "assets/images/gallery_2.jpg",
     "image.gallery_3": "assets/images/gallery_3.jpg",
-    "image.gallery_4": "assets/images/gallery_4.jpg"
+    "image.gallery_4": "assets/images/gallery_4.jpg",
+    "image.gallery_5": "assets/images/gallery_5.jpg",
+    "image.gallery_6": "assets/images/gallery_6.jpg",
+    "image.gallery_7": "assets/images/gallery_7.jpg",
+    "image.gallery_8": "assets/images/gallery_8.jpg",
+    "image.gallery_9": "assets/images/gallery_9.jpg",
+    "image.gallery_10": "assets/images/gallery_10.jpg"
   },
 
   "sounds": {
-    "sound.startup": "assets/sounds/startup.mp3",
-    "sound.shutdown": "assets/sounds/shutdown.mp3",
-    "sound.error": "assets/sounds/error.mp3",
-    "sound.notify": "assets/sounds/notify.mp3",
-    "sound.click": "assets/sounds/click.mp3"
+    "sound.startup": "assets/sounds/startup.wav",
+    "sound.shutdown": "assets/sounds/shutdown.wav",
+    "sound.error": "assets/sounds/error.wav",
+    "sound.notify": "assets/sounds/notify.wav",
+    "sound.click": "assets/sounds/click.wav"
   },
 
   "documents": {
